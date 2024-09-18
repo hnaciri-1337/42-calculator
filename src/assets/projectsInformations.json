@@ -1,0 +1,1237 @@
+[
+  {
+    "id": 1877,
+    "name": "Apprentissage 1 an - 1",
+    "difficulty": 15000
+  },
+  {
+    "id": 1869,
+    "name": "Apprentissage 2 ans - 2ème année - 1",
+    "difficulty": 15000
+  },
+  {
+    "id": 1861,
+    "name": "Apprentissage 2 ans - 1ère année - 1",
+    "difficulty": 15000
+  },
+  {
+    "id": 1878,
+    "name": "Apprentissage 1 an - 2",
+    "difficulty": 20000
+  },
+  {
+    "id": 1870,
+    "name": "Apprentissage 2 ans - 2ème année - 2",
+    "difficulty": 20000
+  },
+  {
+    "id": 1862,
+    "name": "Apprentissage 2 ans - 1ère année - 2",
+    "difficulty": 20000
+  },
+  {
+    "id": 1879,
+    "name": "Apprentissage 1 an - 3",
+    "difficulty": 22150
+  },
+  {
+    "id": 1871,
+    "name": "Apprentissage 2 ans - 2ème année - 3",
+    "difficulty": 22150
+  },
+  {
+    "id": 1863,
+    "name": "Apprentissage 2 ans - 1ère année - 3",
+    "difficulty": 22150
+  },
+  {
+    "id": 1880,
+    "name": "Apprentissage 1 an - 4",
+    "difficulty": 51966
+  },
+  {
+    "id": 1872,
+    "name": "Apprentissage 2 ans - 2ème année - 4",
+    "difficulty": 33150
+  },
+  {
+    "id": 1864,
+    "name": "Apprentissage 2 ans - 1ère année - 4",
+    "difficulty": 33150
+  },
+  {
+    "id": 1811,
+    "name": "Rush 01",
+    "difficulty": 150
+  },
+  {
+    "id": 1314,
+    "name": "Libft",
+    "difficulty": 462
+  },
+  {
+    "id": 1315,
+    "name": "miniRT",
+    "difficulty": 5775
+  },
+  {
+    "id": 1316,
+    "name": "ft_printf",
+    "difficulty": 882
+  },
+  {
+    "id": 1326,
+    "name": "cub3d",
+    "difficulty": 5775
+  },
+  {
+    "id": 1327,
+    "name": "get_next_line",
+    "difficulty": 882
+  },
+  {
+    "id": 1328,
+    "name": "ft_server",
+    "difficulty": 1722
+  },
+  {
+    "id": 1329,
+    "name": "ft_services",
+    "difficulty": 10042
+  },
+  {
+    "id": 1330,
+    "name": "libasm",
+    "difficulty": 966
+  },
+  {
+    "id": 1331,
+    "name": "minishell",
+    "difficulty": 2814
+  },
+  {
+    "id": 1332,
+    "name": "webserv",
+    "difficulty": 21630
+  },
+  {
+    "id": 1334,
+    "name": "Philosophers",
+    "difficulty": 3360
+  },
+  {
+    "id": 1335,
+    "name": "ft_containers",
+    "difficulty": 10042
+  },
+  {
+    "id": 1336,
+    "name": "ft_irc",
+    "difficulty": 21630
+  },
+  {
+    "id": 1337,
+    "name": "ft_transcendence",
+    "difficulty": 24360
+  },
+  {
+    "id": 1379,
+    "name": "ft_hangouts",
+    "difficulty": 4200
+  },
+  {
+    "id": 1381,
+    "name": "taskmaster",
+    "difficulty": 9450
+  },
+  {
+    "id": 1382,
+    "name": "computorv1",
+    "difficulty": 4200
+  },
+  {
+    "id": 1383,
+    "name": "gomoku",
+    "difficulty": 25200
+  },
+  {
+    "id": 1384,
+    "name": "expert-system",
+    "difficulty": 9450
+  },
+  {
+    "id": 1385,
+    "name": "n-puzzle",
+    "difficulty": 9450
+  },
+  {
+    "id": 1386,
+    "name": "nibbler",
+    "difficulty": 9450
+  },
+  {
+    "id": 1387,
+    "name": "42run",
+    "difficulty": 9450
+  },
+  {
+    "id": 1388,
+    "name": "strace",
+    "difficulty": 9450
+  },
+  {
+    "id": 1389,
+    "name": "bomberman",
+    "difficulty": 25200
+  },
+  {
+    "id": 1390,
+    "name": "scop",
+    "difficulty": 9450
+  },
+  {
+    "id": 1391,
+    "name": "ft_linear_regression",
+    "difficulty": 4200
+  },
+  {
+    "id": 1392,
+    "name": "krpsim",
+    "difficulty": 9450
+  },
+  {
+    "id": 1393,
+    "name": "rubik",
+    "difficulty": 9450
+  },
+  {
+    "id": 1394,
+    "name": "humangl",
+    "difficulty": 4200
+  },
+  {
+    "id": 1395,
+    "name": "swifty-companion",
+    "difficulty": 4200
+  },
+  {
+    "id": 1396,
+    "name": "camagru",
+    "difficulty": 4200
+  },
+  {
+    "id": 1397,
+    "name": "ft_ping",
+    "difficulty": 4200
+  },
+  {
+    "id": 1399,
+    "name": "ft_traceroute",
+    "difficulty": 4200
+  },
+  {
+    "id": 1400,
+    "name": "ft_nmap",
+    "difficulty": 15750
+  },
+  {
+    "id": 1401,
+    "name": "matcha",
+    "difficulty": 9450
+  },
+  {
+    "id": 1402,
+    "name": "hypertube",
+    "difficulty": 15750
+  },
+  {
+    "id": 1403,
+    "name": "ft_turing",
+    "difficulty": 9450
+  },
+  {
+    "id": 1404,
+    "name": "snow-crash",
+    "difficulty": 9450
+  },
+  {
+    "id": 1405,
+    "name": "darkly",
+    "difficulty": 6300
+  },
+  {
+    "id": 1406,
+    "name": "swifty-proteins",
+    "difficulty": 15750
+  },
+  {
+    "id": 1407,
+    "name": "ft_ality",
+    "difficulty": 4200
+  },
+  {
+    "id": 1408,
+    "name": "xv",
+    "difficulty": 22000
+  },
+  {
+    "id": 1409,
+    "name": "in-the-shadows",
+    "difficulty": 9450
+  },
+  {
+    "id": 1410,
+    "name": "particle-system",
+    "difficulty": 15750
+  },
+  {
+    "id": 1411,
+    "name": "gbmu",
+    "difficulty": 31500
+  },
+  {
+    "id": 1414,
+    "name": "cloud-1",
+    "difficulty": 9450
+  },
+  {
+    "id": 1415,
+    "name": "ft_linux",
+    "difficulty": 4200
+  },
+  {
+    "id": 1416,
+    "name": "little-penguin-1",
+    "difficulty": 9450
+  },
+  {
+    "id": 1417,
+    "name": "rainfall",
+    "difficulty": 25200
+  },
+  {
+    "id": 1418,
+    "name": "dr-quine",
+    "difficulty": 2520
+  },
+  {
+    "id": 1419,
+    "name": "woody-woodpacker",
+    "difficulty": 9450
+  },
+  {
+    "id": 1420,
+    "name": "matt-daemon",
+    "difficulty": 9450
+  },
+  {
+    "id": 1421,
+    "name": "process-and-memory",
+    "difficulty": 9450
+  },
+  {
+    "id": 1422,
+    "name": "drivers-and-interrupts",
+    "difficulty": 15750
+  },
+  {
+    "id": 1423,
+    "name": "filesystem",
+    "difficulty": 15750
+  },
+  {
+    "id": 1424,
+    "name": "kfs-2",
+    "difficulty": 15750
+  },
+  {
+    "id": 1425,
+    "name": "kfs-1",
+    "difficulty": 15750
+  },
+  {
+    "id": 1426,
+    "name": "kfs-3",
+    "difficulty": 35700
+  },
+  {
+    "id": 1427,
+    "name": "music-room",
+    "difficulty": 25200
+  },
+  {
+    "id": 1428,
+    "name": "red-tetris",
+    "difficulty": 15750
+  },
+  {
+    "id": 1429,
+    "name": "h42n42",
+    "difficulty": 9450
+  },
+  {
+    "id": 1430,
+    "name": "famine",
+    "difficulty": 9450
+  },
+  {
+    "id": 1431,
+    "name": "kfs-4",
+    "difficulty": 25200
+  },
+  {
+    "id": 1432,
+    "name": "kfs-5",
+    "difficulty": 35700
+  },
+  {
+    "id": 1433,
+    "name": "computorv2",
+    "difficulty": 9450
+  },
+  {
+    "id": 1435,
+    "name": "avaj-launcher",
+    "difficulty": 4200
+  },
+  {
+    "id": 1436,
+    "name": "swingy",
+    "difficulty": 9450
+  },
+  {
+    "id": 1437,
+    "name": "fix-me",
+    "difficulty": 15750
+  },
+  {
+    "id": 1438,
+    "name": "kfs-6",
+    "difficulty": 25200
+  },
+  {
+    "id": 1439,
+    "name": "kfs-7",
+    "difficulty": 35700
+  },
+  {
+    "id": 1440,
+    "name": "kfs-8",
+    "difficulty": 15750
+  },
+  {
+    "id": 1441,
+    "name": "kfs-9",
+    "difficulty": 15750
+  },
+  {
+    "id": 1442,
+    "name": "kfs-x",
+    "difficulty": 35700
+  },
+  {
+    "id": 1443,
+    "name": "pestilence",
+    "difficulty": 15750
+  },
+  {
+    "id": 1444,
+    "name": "war",
+    "difficulty": 35700
+  },
+  {
+    "id": 1445,
+    "name": "death",
+    "difficulty": 35700
+  },
+  {
+    "id": 1446,
+    "name": "boot2root",
+    "difficulty": 11500
+  },
+  {
+    "id": 1447,
+    "name": "ft_shield",
+    "difficulty": 15750
+  },
+  {
+    "id": 1448,
+    "name": "override",
+    "difficulty": 35700
+  },
+  {
+    "id": 1449,
+    "name": "ft_vox",
+    "difficulty": 15750
+  },
+  {
+    "id": 1450,
+    "name": "ft_ssl_rsa",
+    "difficulty": 15750
+  },
+  {
+    "id": 1451,
+    "name": "ft_ssl_md5",
+    "difficulty": 9450
+  },
+  {
+    "id": 1452,
+    "name": "ft_ssl_des",
+    "difficulty": 9450
+  },
+  {
+    "id": 1453,
+    "name": "dslr",
+    "difficulty": 6000
+  },
+  {
+    "id": 1454,
+    "name": "shaderpixel",
+    "difficulty": 15750
+  },
+  {
+    "id": 1455,
+    "name": "guimp",
+    "difficulty": 12600
+  },
+  {
+    "id": 1456,
+    "name": "userspace_digressions",
+    "difficulty": 16800
+  },
+  {
+    "id": 1457,
+    "name": "multilayer-perceptron",
+    "difficulty": 9450
+  },
+  {
+    "id": 1458,
+    "name": "doom-nukem",
+    "difficulty": 15750
+  },
+  {
+    "id": 1460,
+    "name": "total-perspective-vortex",
+    "difficulty": 9450
+  },
+  {
+    "id": 1461,
+    "name": "abstract-vm",
+    "difficulty": 9450
+  },
+  {
+    "id": 1462,
+    "name": "mod1",
+    "difficulty": 9450
+  },
+  {
+    "id": 1463,
+    "name": "zappy",
+    "difficulty": 25200
+  },
+  {
+    "id": 1464,
+    "name": "lem-ipc",
+    "difficulty": 9450
+  },
+  {
+    "id": 1466,
+    "name": "ft_script",
+    "difficulty": 4200
+  },
+  {
+    "id": 1467,
+    "name": "nm",
+    "difficulty": 9450
+  },
+  {
+    "id": 1468,
+    "name": "malloc",
+    "difficulty": 9450
+  },
+  {
+    "id": 1469,
+    "name": "ft_select",
+    "difficulty": 4200
+  },
+  {
+    "id": 1470,
+    "name": "lem_in",
+    "difficulty": 9450
+  },
+  {
+    "id": 1471,
+    "name": "push_swap",
+    "difficulty": 1855
+  },
+  {
+    "id": 1475,
+    "name": "corewar",
+    "difficulty": 17500
+  },
+  {
+    "id": 1476,
+    "name": "fract-ol",
+    "difficulty": 1000
+  },
+  {
+    "id": 1479,
+    "name": "ft_ls",
+    "difficulty": 4200
+  },
+  {
+    "id": 1481,
+    "name": "Piscine PHP Symfony",
+    "difficulty": 9450
+  },
+  {
+    "id": 1482,
+    "name": "Piscine Ruby on Rails",
+    "difficulty": 9450
+  },
+  {
+    "id": 1483,
+    "name": "[DEPRECATED] Piscine Python Django",
+    "difficulty": 9450
+  },
+  {
+    "id": 1484,
+    "name": "[DEPRECATED] Piscine OCaml",
+    "difficulty": 9450
+  },
+  {
+    "id": 1485,
+    "name": "[DEPRECATED] Piscine Unity",
+    "difficulty": 9450
+  },
+  {
+    "id": 1486,
+    "name": "[DEPRECATED] Piscine Swift iOS",
+    "difficulty": 9450
+  },
+  {
+    "id": 1342,
+    "name": "CPP Module 04",
+    "difficulty": 9660
+  },
+  {
+    "id": 1635,
+    "name": "Open Project",
+    "difficulty": 31500
+  },
+  {
+    "id": 1638,
+    "name": "Internship I",
+    "difficulty": 42000
+  },
+  {
+    "id": 1644,
+    "name": "Internship II",
+    "difficulty": 63000
+  },
+  {
+    "id": 1650,
+    "name": "Part_Time I",
+    "difficulty": 42000
+  },
+  {
+    "id": 1656,
+    "name": "Part_Time II",
+    "difficulty": 63000
+  },
+  {
+    "id": 1662,
+    "name": "Startup Internship",
+    "difficulty": 42000
+  },
+  {
+    "id": 1683,
+    "name": "Old-Philosophers",
+    "difficulty": 3360
+  },
+  {
+    "id": 1684,
+    "name": "Old-IRC",
+    "difficulty": 21630
+  },
+  {
+    "id": 1814,
+    "name": "darkly - web",
+    "difficulty": 9450
+  },
+  {
+    "id": 1840,
+    "name": "ft_malcolm",
+    "difficulty": 6000
+  },
+  {
+    "id": 1848,
+    "name": "Electronique",
+    "difficulty": 35700
+  },
+  {
+    "id": 1853,
+    "name": "doom_nukem",
+    "difficulty": 15750
+  },
+  {
+    "id": 1854,
+    "name": "42sh",
+    "difficulty": 15750
+  },
+  {
+    "id": 1855,
+    "name": "rt",
+    "difficulty": 20750
+  },
+  {
+    "id": 1883,
+    "name": "freddie-mercury",
+    "difficulty": 12600
+  },
+  {
+    "id": 1933,
+    "name": "tweets",
+    "difficulty": 9450
+  },
+  {
+    "id": 1934,
+    "name": "churn",
+    "difficulty": 9450
+  },
+  {
+    "id": 1943,
+    "name": "mySpotify",
+    "difficulty": 9450
+  },
+  {
+    "id": 1946,
+    "name": "Restful",
+    "difficulty": 4200
+  },
+  {
+    "id": 1947,
+    "name": "MicroServices",
+    "difficulty": 4200
+  },
+  {
+    "id": 1951,
+    "name": "Cinema",
+    "difficulty": 4200
+  },
+  {
+    "id": 1952,
+    "name": "SpringBoot",
+    "difficulty": 9450
+  },
+  {
+    "id": 1955,
+    "name": "Uber",
+    "difficulty": 9450
+  },
+  {
+    "id": 1956,
+    "name": " Understanding customer",
+    "difficulty": 9450
+  },
+  {
+    "id": 1957,
+    "name": "City Life",
+    "difficulty": 15750
+  },
+  {
+    "id": 1958,
+    "name": "MessageQueue",
+    "difficulty": 9450
+  },
+  {
+    "id": 1959,
+    "name": "Amazon",
+    "difficulty": 15750
+  },
+  {
+    "id": 1960,
+    "name": "Fried eggs",
+    "difficulty": 25200
+  },
+  {
+    "id": 1962,
+    "name": "ft_newton",
+    "difficulty": 24360
+  },
+  {
+    "id": 1983,
+    "name": "Inception",
+    "difficulty": 10042
+  },
+  {
+    "id": 1994,
+    "name": "Born2beroot",
+    "difficulty": 577
+  },
+  {
+    "id": 1998,
+    "name": "[DEPRECATED] Python Module 04",
+    "difficulty": 6000
+  },
+  {
+    "id": 2003,
+    "name": "[DEPRECATED] ML Module 04",
+    "difficulty": 15000
+  },
+  {
+    "id": 2004,
+    "name": "pipex",
+    "difficulty": 1142
+  },
+  {
+    "id": 2005,
+    "name": "minitalk",
+    "difficulty": 1142
+  },
+  {
+    "id": 2006,
+    "name": "42SEOUL_TEST",
+    "difficulty": 1855
+  },
+  {
+    "id": 2007,
+    "name": "NetPractice",
+    "difficulty": 3160
+  },
+  {
+    "id": 2008,
+    "name": "FdF",
+    "difficulty": 1000
+  },
+  {
+    "id": 2009,
+    "name": "so_long",
+    "difficulty": 1000
+  },
+  {
+    "id": 2064,
+    "name": "Inception-of-Things",
+    "difficulty": 25450
+  },
+  {
+    "id": 2065,
+    "name": "Rushes",
+    "difficulty": 10000
+  },
+  {
+    "id": 2068,
+    "name": "Cow-Neck-TID",
+    "difficulty": 20000
+  },
+  {
+    "id": 2071,
+    "name": " Bgp At Doors of Autonomous Systems is Simple",
+    "difficulty": 22450
+  },
+  {
+    "id": 2076,
+    "name": "ready set boole",
+    "difficulty": 7000
+  },
+  {
+    "id": 2077,
+    "name": "matrix",
+    "difficulty": 7000
+  },
+  {
+    "id": 2078,
+    "name": "Wolfsburg I Accept",
+    "difficulty": 10
+  },
+  {
+    "id": 2097,
+    "name": "tinky-winkey",
+    "difficulty": 16800
+  },
+  {
+    "id": 2098,
+    "name": "ft_kalman",
+    "difficulty": 16800
+  },
+  {
+    "id": 2126,
+    "name": "ft_minecraft",
+    "difficulty": 20750
+  },
+  {
+    "id": 2225,
+    "name": "Ftl_quantum",
+    "difficulty": 6500
+  },
+  {
+    "id": 2268,
+    "name": "Python - 0 - Starting",
+    "difficulty": 545
+  },
+  {
+    "id": 2269,
+    "name": "Python - 1 - Array",
+    "difficulty": 545
+  },
+  {
+    "id": 2270,
+    "name": "Python - 2 - DataTable",
+    "difficulty": 545
+  },
+  {
+    "id": 2271,
+    "name": "Python - 3 - OOP",
+    "difficulty": 545
+  },
+  {
+    "id": 2272,
+    "name": "Python - 4 - Dod",
+    "difficulty": 2545
+  },
+  {
+    "id": 2284,
+    "name": "Unity - 1 - 3D physics, Tags, Layers and Scene",
+    "difficulty": 500
+  },
+  {
+    "id": 2285,
+    "name": "Unity - 6 - Navmesh, light, sound and camera",
+    "difficulty": 3450
+  },
+  {
+    "id": 2286,
+    "name": "Unity - 0 - The basics Unity tools",
+    "difficulty": 500
+  },
+  {
+    "id": 2287,
+    "name": "Unity - 5 - Singleton, playerPrefs and coroutines",
+    "difficulty": 2000
+  },
+  {
+    "id": 2289,
+    "name": "Unity - 2 - 2D environment, tiles and sprites",
+    "difficulty": 1000
+  },
+  {
+    "id": 2290,
+    "name": "Unity - 3 - Advanced inputs and 2D GUI",
+    "difficulty": 1000
+  },
+  {
+    "id": 2292,
+    "name": "Unity - 4 - Animations and Sound",
+    "difficulty": 1000
+  },
+  {
+    "id": 2306,
+    "name": "Data Science - 0",
+    "difficulty": 545
+  },
+  {
+    "id": 2309,
+    "name": "CPP Module 09",
+    "difficulty": 10042
+  },
+  {
+    "id": 2311,
+    "name": "Data Science - 2",
+    "difficulty": 545
+  },
+  {
+    "id": 2182,
+    "name": "RoR - 0 - Oob",
+    "difficulty": 1500
+  },
+  {
+    "id": 2184,
+    "name": "RoR - 1 - Base Rails",
+    "difficulty": 3475
+  },
+  {
+    "id": 2185,
+    "name": "RoR - 2 - SQL",
+    "difficulty": 1000
+  },
+  {
+    "id": 2188,
+    "name": "RoR - 3 - Final",
+    "difficulty": 3475
+  },
+  {
+    "id": 2202,
+    "name": "Symfony - 0 - Oob",
+    "difficulty": 1500
+  },
+  {
+    "id": 2204,
+    "name": "Symfony - 1 - Base Symfony ",
+    "difficulty": 3475
+  },
+  {
+    "id": 2205,
+    "name": "Symfony - 2 - SQL",
+    "difficulty": 1000
+  },
+  {
+    "id": 2208,
+    "name": "Symfony - 3 - Final",
+    "difficulty": 3475
+  },
+  {
+    "id": 2192,
+    "name": "Django - 0 - Oob",
+    "difficulty": 1500
+  },
+  {
+    "id": 2194,
+    "name": "Django - 1 - Base Django",
+    "difficulty": 3475
+  },
+  {
+    "id": 2195,
+    "name": "Django - 2 - SQL",
+    "difficulty": 1000
+  },
+  {
+    "id": 2198,
+    "name": "Django - 3 - Final",
+    "difficulty": 3475
+  },
+  {
+    "id": 2316,
+    "name": "Data Science - 3",
+    "difficulty": 545
+  },
+  {
+    "id": 2317,
+    "name": "Data Science - 4",
+    "difficulty": 2545
+  },
+  {
+    "id": 2318,
+    "name": "Data Science - 1",
+    "difficulty": 545
+  },
+  {
+    "id": 2319,
+    "name": "tweet",
+    "difficulty": 9450
+  },
+  {
+    "id": 2326,
+    "name": "Cybersecurity - arachnida - Web",
+    "difficulty": 1350
+  },
+  {
+    "id": 2327,
+    "name": "Cybersecurity - ft_otp - OTP",
+    "difficulty": 1350
+  },
+  {
+    "id": 2328,
+    "name": "Cybersecurity - ft_onion - Web",
+    "difficulty": 1350
+  },
+  {
+    "id": 2335,
+    "name": "Java Module 09",
+    "difficulty": 15750
+  },
+  {
+    "id": 2336,
+    "name": "Cybersecurity - Reverse me - Rev",
+    "difficulty": 1350
+  },
+  {
+    "id": 2337,
+    "name": " Cybersecurity - Stockholm - Malware",
+    "difficulty": 1350
+  },
+  {
+    "id": 2338,
+    "name": "FR Apprentissage RNCP 6 - 1 an",
+    "difficulty": 90000
+  },
+  {
+    "id": 2339,
+    "name": "FR Apprentissage RNCP 6 - 2 ans",
+    "difficulty": 150000
+  },
+  {
+    "id": 2340,
+    "name": "FR Apprentissage RNCP 7 - 1 an",
+    "difficulty": 90000
+  },
+  {
+    "id": 2341,
+    "name": "FR Apprentissage RNCP 7 - 2 ans",
+    "difficulty": 180000
+  },
+  {
+    "id": 2343,
+    "name": "Cybersecurity - Inquisitor - Network",
+    "difficulty": 1350
+  },
+  {
+    "id": 2345,
+    "name": "Cybersecurity - Vaccine - Web",
+    "difficulty": 1350
+  },
+  {
+    "id": 2347,
+    "name": "fwa",
+    "difficulty": 4200
+  },
+  {
+    "id": 2349,
+    "name": "cinema",
+    "difficulty": 9450
+  },
+  {
+    "id": 2350,
+    "name": "Spring Boot",
+    "difficulty": 15750
+  },
+  {
+    "id": 2351,
+    "name": "restful",
+    "difficulty": 4200
+  },
+  {
+    "id": 2353,
+    "name": "messagequeue",
+    "difficulty": 9450
+  },
+  {
+    "id": 2354,
+    "name": "Mobile - 0 - Basic of the mobile application",
+    "difficulty": 500
+  },
+  {
+    "id": 2356,
+    "name": "Mobile - 1 - Structure and logic",
+    "difficulty": 950
+  },
+  {
+    "id": 2357,
+    "name": "Mobile - 2 - API and data",
+    "difficulty": 1000
+  },
+  {
+    "id": 2358,
+    "name": "Mobile - 3 - Design",
+    "difficulty": 2000
+  },
+  {
+    "id": 2359,
+    "name": "Mobile - 4 - Auth and dataBase",
+    "difficulty": 2000
+  },
+  {
+    "id": 2360,
+    "name": "Mobile - 5 - Manage data and display",
+    "difficulty": 3000
+  },
+  {
+    "id": 2365,
+    "name": "Piscine Object - Module 00 - Encapsulation",
+    "difficulty": 945
+  },
+  {
+    "id": 2366,
+    "name": "Piscine Object - Module 01 - Relationship",
+    "difficulty": 945
+  },
+  {
+    "id": 2367,
+    "name": "Piscine Object - Module 02 - UML",
+    "difficulty": 1890
+  },
+  {
+    "id": 2368,
+    "name": "Piscine Object - Module 03 - SMART",
+    "difficulty": 1890
+  },
+  {
+    "id": 2369,
+    "name": "Piscine Object - Module 04 - Design Pattern",
+    "difficulty": 1890
+  },
+  {
+    "id": 2370,
+    "name": "Piscine Object - Module 05 - Practical work",
+    "difficulty": 1890
+  },
+  {
+    "id": 2371,
+    "name": "Abstract_data",
+    "difficulty": 20084
+  },
+  {
+    "id": 2372,
+    "name": "Leaffliction",
+    "difficulty": 15750
+  },
+  {
+    "id": 2373,
+    "name": "Microshop",
+    "difficulty": 24360
+  },
+  {
+    "id": 2393,
+    "name": "UnleashTheBox",
+    "difficulty": 15750
+  },
+  {
+    "id": 2394,
+    "name": "ft_microservices",
+    "difficulty": 4200
+  },
+  {
+    "id": 2395,
+    "name": "ActiveConnect",
+    "difficulty": 15750
+  },
+  {
+    "id": 2485,
+    "name": "Tokenizer",
+    "difficulty": 9450
+  },
+  {
+    "id": 2503,
+    "name": "Codam Startup Internship",
+    "difficulty": 42000
+  },
+  {
+    "id": 2520,
+    "name": "ActiveDiscovery",
+    "difficulty": 15750
+  },
+  {
+    "id": 2521,
+    "name": "AutomaticDirectory",
+    "difficulty": 9450
+  },
+  {
+    "id": 2522,
+    "name": "AdministrativeDirectory",
+    "difficulty": 9450
+  },
+  {
+    "id": 2523,
+    "name": "AccessibleDirectory",
+    "difficulty": 9450
+  },
+  {
+    "id": 2527,
+    "name": "MicroForensX",
+    "difficulty": 9450
+  },
+  {
+    "id": 2529,
+    "name": "ActiveTechTales",
+    "difficulty": 15750
+  }
+]
